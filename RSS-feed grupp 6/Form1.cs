@@ -54,5 +54,10 @@ namespace RSS_feed_grupp_6
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

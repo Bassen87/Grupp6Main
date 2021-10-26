@@ -1,0 +1,16 @@
+C:\Grupp6Main\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+C:\Grupp6Main\BusinessLayer\bin\Debug\BusinessLayer.exe
+C:\Grupp6Main\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Grupp6Main\BusinessLayer\bin\Debug\DataAccessLayer.exe
+C:\Grupp6Main\BusinessLayer\bin\Debug\Models.exe
+C:\Grupp6Main\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Grupp6Main\BusinessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Grupp6Main\BusinessLayer\bin\Debug\Models.pdb
+C:\Grupp6Main\BusinessLayer\bin\Debug\Models.exe.config
+C:\Grupp6Main\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Grupp6Main\BusinessLayer\obj\Debug\BusinessLayer.Properties.Resources.resources
+C:\Grupp6Main\BusinessLayer\obj\Debug\BusinessLayer.csproj.GenerateResource.cache
+C:\Grupp6Main\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Grupp6Main\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Grupp6Main\BusinessLayer\obj\Debug\BusinessLayer.exe
+C:\Grupp6Main\BusinessLayer\obj\Debug\BusinessLayer.pdb

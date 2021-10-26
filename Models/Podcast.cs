@@ -15,16 +15,18 @@ namespace Models
 
         }
 
-        public Podcast(string uid, string name, Kategori kategori, string url, uint updateInterval) : base(uid, name, kategori, url, updateInterval)
+        public Podcast(string uid, string namn, Kategori kategori, string url, uint updateInterval) : base(uid, namn, kategori, url, updateInterval)
         {
 
         }
 
-        public override string GetInfo()
+        public override string HamtaInfo()
         {
-            return $"{Name} \n{Kategori.Name} \nUppdateringsintervall: {UpdateInterval}s \nAntal avsnitt: {Avsnitt.Count}";
+            return $"{Namn} \n{Kategori.Namn} \nUppdateringsintervall: {UppdateringsIntervall}s \nAntal avsnitt: {Avsnitt.Count}";
         }
 
-        public string DisplayInfo => GetInfo();
+        public string DisplayInfo => HamtaInfo();
+
+    
+        }
     }
-}

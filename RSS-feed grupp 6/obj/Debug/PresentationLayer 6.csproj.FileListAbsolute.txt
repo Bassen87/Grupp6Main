@@ -8,3 +8,13 @@ C:\Users\Bassen\Desktop\RSSfeed grupp 6\RSS-feed grupp 6\obj\Debug\PresentationL
 C:\Users\Bassen\Desktop\RSSfeed grupp 6\RSS-feed grupp 6\obj\Debug\PresentationLayer 6.csproj.CoreCompileInputs.cache
 C:\Users\Bassen\Desktop\RSSfeed grupp 6\RSS-feed grupp 6\obj\Debug\RSS-feed grupp 6.exe
 C:\Users\Bassen\Desktop\RSSfeed grupp 6\RSS-feed grupp 6\obj\Debug\RSS-feed grupp 6.pdb
+C:\Grupp6Main\RSS-feed grupp 6\bin\Debug\RSS-feed grupp 6.exe.config
+C:\Grupp6Main\RSS-feed grupp 6\bin\Debug\RSS-feed grupp 6.exe
+C:\Grupp6Main\RSS-feed grupp 6\bin\Debug\RSS-feed grupp 6.pdb
+C:\Grupp6Main\RSS-feed grupp 6\obj\Debug\PresentationLayer 6.csproj.AssemblyReference.cache
+C:\Grupp6Main\RSS-feed grupp 6\obj\Debug\RSS_feed_grupp_6.Form1.resources
+C:\Grupp6Main\RSS-feed grupp 6\obj\Debug\RSS_feed_grupp_6.Properties.Resources.resources
+C:\Grupp6Main\RSS-feed grupp 6\obj\Debug\PresentationLayer 6.csproj.GenerateResource.cache
+C:\Grupp6Main\RSS-feed grupp 6\obj\Debug\PresentationLayer 6.csproj.CoreCompileInputs.cache
+C:\Grupp6Main\RSS-feed grupp 6\obj\Debug\RSS-feed grupp 6.exe
+C:\Grupp6Main\RSS-feed grupp 6\obj\Debug\RSS-feed grupp 6.pdb

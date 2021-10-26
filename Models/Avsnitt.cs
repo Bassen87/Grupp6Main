@@ -9,7 +9,7 @@ namespace Models
 {
     public class Avsnitt
     {
-        [XmlElement(ElementName = "title")]
+        [XmlElement(ElementName = "titel")]
         public string Title { get; set; }
 
         [XmlElement(ElementName = "pubDate")]
@@ -18,6 +18,11 @@ namespace Models
         [XmlElement(ElementName = "description")]
         public string Description { get; set; }
 
+
+        public String AvsnittTitel { get; set; }
+        public String AvsnittLink { get; set; }
+        public String AvsnittBeskrivning { get; set; }
+        public string datum { get; set; }
 
     }
 }
