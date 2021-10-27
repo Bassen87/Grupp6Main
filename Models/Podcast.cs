@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models
+namespace PresentationLayer6.Models
 {
     public class Podcast : Feed
     {
-        public List<Avsnitt> Avsnitt;
+        public List<Avsnittold> Avsnitt;
 
         public Podcast()
         {

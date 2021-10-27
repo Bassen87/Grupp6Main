@@ -7,3 +7,12 @@ C:\Grupp6Main\Models\obj\Debug\Models.csproj.GenerateResource.cache
 C:\Grupp6Main\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Grupp6Main\Models\obj\Debug\Models.exe
 C:\Grupp6Main\Models\obj\Debug\Models.pdb
+C:\Users\Bassen\Desktop\Grupp6Main\Models\bin\Debug\Models.exe.config
+C:\Users\Bassen\Desktop\Grupp6Main\Models\bin\Debug\Models.exe
+C:\Users\Bassen\Desktop\Grupp6Main\Models\bin\Debug\Models.pdb
+C:\Users\Bassen\Desktop\Grupp6Main\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Bassen\Desktop\Grupp6Main\Models\obj\Debug\Models.Properties.Resources.resources
+C:\Users\Bassen\Desktop\Grupp6Main\Models\obj\Debug\Models.csproj.GenerateResource.cache
+C:\Users\Bassen\Desktop\Grupp6Main\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Bassen\Desktop\Grupp6Main\Models\obj\Debug\Models.exe
+C:\Users\Bassen\Desktop\Grupp6Main\Models\obj\Debug\Models.pdb

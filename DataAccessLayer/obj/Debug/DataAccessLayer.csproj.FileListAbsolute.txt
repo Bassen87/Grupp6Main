@@ -11,3 +11,9 @@ C:\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs
 C:\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.exe
 C:\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Bassen\Desktop\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Bassen\Desktop\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+C:\Users\Bassen\Desktop\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Bassen\Desktop\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Bassen\Desktop\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\Bassen\Desktop\Grupp6Main\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

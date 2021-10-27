@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace Models
+namespace PresentationLayer6.Models
 {
 
     [XmlInclude(typeof(Podcast))]
@@ -15,6 +15,12 @@ namespace Models
         public string Namn { get; set; }
         public Kategori Kategori { get; set; }
         public string Url { get; set; }
+        public String FeedTitel { get; set; }
+        public String FeedKategorier { get; set; }
+        public String FeedLank { get; set; }
+        public String feedMapp { get; set; }
+        public int FeedUpdateIntervall { get; set; }
+        public List<Avsnitt> AvsnittsLista { get; set; }
 
         //Set in seconds
         public uint UppdateringsIntervall { get; set; }

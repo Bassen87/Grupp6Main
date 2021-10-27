@@ -6,38 +6,39 @@ using System.ServiceModel.Syndication;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
-using Models;
 using System.Xml.Serialization;
 using System.IO;
+using PresentationLayer6.Models;
+using DataAccessLayer.Exceptions;
 
 namespace DataAccessLayer.Repository
 {
-    public class Syndication : Feed
+    public class Syndication
 
     {
         public async Task<List<Avsnitt>> LasAvsnitt(string avsnittLink);
         XmlReader reader = XmlReader.Create(avsnittLink);
         SyndicationFeed feed = SyndicationFeed.Load(reader);
         List<Avsnitt> listaAvAvsnitt = new List<Avsnitt>();
-        foreach(var item in feed.Items){
+        foreach (var item in feed.Items){
             
             var avsnitt = new Avsnitt();
-            avsnitt.AvsnittTitel = item.Titel.Text;
-            avsnitt.AvsnittBeskrivning = item.Beskrivning.Text;
-            avsnitt.datum = item.PubliceringsDatum.ToString();
+            Avsnitt.AvsnittTitel = item.Titel.Text;
+            Avsnitt.AvsnittBeskrivning = item.Beskrivning.Text;
+            Avsnitt.datum = item.PubliceringsDatum.ToString();
             ListaAvAvsnitt.Add(avsnitt);
 
-            }
+    }
         return ListaAvAvsnitt;
         await LasAvsnitt(avsnittLink);
 
-    }
+}
 
     public async Task LaggTillInfo(string url, string feedLank, int uppdateringsIntervall, String feedMapp, string feedTitel, string kategoriNamn)
 {
     var feed = new Feeds
     {
-       FeedTitel = feedTitel,
+        FeedTitel = feedTitel,
         FeedKategorier = kategoriNamn,
         FeedLank = feedLank,
         FeedUppdateringsIntervall = uppdateringsIntervall,

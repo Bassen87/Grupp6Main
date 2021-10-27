@@ -51,6 +51,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exceptions\SerializerException.cs" />
+    <Compile Include="SerializerForXml.cs" />
+    <Compile Include="Repository\IAvsnittRepository.cs" />
     <Compile Include="Repository\Syndication.cs" />
     <Compile Include="Repository\FeedRepository.cs" />
     <Compile Include="Repository\IRepository.cs" />
